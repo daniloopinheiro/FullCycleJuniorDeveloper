@@ -75,5 +75,5 @@
     - **Atividades**: Participar na construção ou análise de um projeto como o Codeflix.
 
 ### Conclusão
-
-Este fluxo é projetado para desenvolver as habilidades essenciais de um desenvolvedor júnior, proporcionando uma base sólida em conceitos fundamentais e permitindo uma progressão natural para níveis mais avançados. Com uma abordagem prática e gradual, o desenvolvedor pode se preparar para desafios mais complexos no futuro.
+⚠️
+**Este fluxo é projetado para desenvolver as habilidades essenciais de um desenvolvedor júnior, proporcionando uma base sólida em conceitos fundamentais e permitindo uma progressão natural para níveis mais avançados. Com uma abordagem prática e gradual, o desenvolvedor pode se preparar para desafios mais complexos no futuro.**
