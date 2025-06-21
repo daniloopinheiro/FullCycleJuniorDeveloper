@@ -1,5 +1,7 @@
 ### Fluxo de Estudo para um Junior Developer
 
+[![Check Markdown Links](https://github.com/daniloopinheiro/FullCycleJuniorDeveloper/actions/workflows/check-links.yml/badge.svg?branch=main)](https://github.com/daniloopinheiro/FullCycleJuniorDeveloper/actions/workflows/check-links.yml)
+
 ⚠️ **Embora um fluxo FullCycle possa ser ambicioso para um desenvolvedor júnior, ter uma visão geral das tecnologias e conceitos pode ser extremamente valioso. Aqui está um fluxo sugerido, com foco em fundamentos e habilidades essenciais:**
 
 1. **Fundamentos da Arquitetura de Software**
