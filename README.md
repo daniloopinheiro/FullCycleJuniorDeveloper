@@ -79,3 +79,7 @@
 ### Conclusão
 ⚠️
 **Este fluxo é projetado para desenvolver as habilidades essenciais de um desenvolvedor júnior, proporcionando uma base sólida em conceitos fundamentais e permitindo uma progressão natural para níveis mais avançados. Com uma abordagem prática e gradual, o desenvolvedor pode se preparar para desafios mais complexos no futuro.**
+
+---
+
+<p align="center"> Feito com ❤️ por <strong>Danilo O. Pinheiro</strong><br/> <a href="https://devsfree.com.br" target="_blank">DevsFree</a> • <a href="https://dopme.io" target="_blank">dopme.io</a> </p>
